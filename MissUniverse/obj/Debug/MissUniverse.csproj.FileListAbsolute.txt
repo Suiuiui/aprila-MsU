@@ -1,0 +1,11 @@
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.csproj.AssemblyReference.cache
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.Form1.resources
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.Properties.Resources.resources
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.csproj.GenerateResource.cache
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.csproj.CoreCompileInputs.cache
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\bin\Debug\MissUniverse.exe.config
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\bin\Debug\MissUniverse.exe
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\bin\Debug\MissUniverse.pdb
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.exe
+C:\Users\TOMMY\OneDrive\VS\MissUniverse\MissUniverse\obj\Debug\MissUniverse.pdb
